@@ -1,0 +1,2 @@
+# WebCrawler
+python: beautifulsoup+requests
